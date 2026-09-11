@@ -104,8 +104,8 @@ function backend-init {
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DecoPrasetya&show_icons=true&theme=default" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecoPrasetya&layout=compact" alt="Top languages" />
 </p>
 
 ---
