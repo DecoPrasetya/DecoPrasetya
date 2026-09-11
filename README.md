@@ -103,8 +103,6 @@ function backend-init {
 
 ### 📊 Stats
 
-<!DOCTYPE html>
-<html lang="id">
 <head>
 <meta charset="UTF-8">
 <title>Kemana Perginya Waktuku</title>
