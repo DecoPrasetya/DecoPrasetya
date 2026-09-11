@@ -103,10 +103,10 @@ function backend-init {
 
 ### 📊 GitHub Stats
 
-<p align="left">
+[<p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=DecoPrasetya&show_icons=true&theme=default" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecoPrasetya&layout=compact" alt="Top languages" />
-</p>
+</p>](https://github-readme-stats.vercel.app/api?username=DecoPrasetya&show_icons=true&theme=default)
 
 ---
 
