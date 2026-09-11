@@ -27,31 +27,42 @@
 **Bahasa & Runtime**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs" alt="js, ts, nodejs" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
 </p>
 
 **Backend Framework & Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=express,prisma" alt="express, prisma" />
+  <a href="https://expressjs.com/" title="Express.js"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>
+  <a href="https://www.prisma.io/" title="Prisma"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" /></a>
 </p>
 
 **Database**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="postgres, mysql, mongodb" />
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
 </p>
 
 **Frontend (pendamping)**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react" alt="nextjs, react" />
+  <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+  <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
 </p>
 
 **Tools & Lainnya**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm" alt="git, github, vscode, postman, docker, npm" />
+  <a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://www.npmjs.com/" title="npm"><img src="https://skillicons.dev/icons?i=npm" alt="npm" /></a>
 </p>
 
 ---
