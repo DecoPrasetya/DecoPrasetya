@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DecoPrasetya&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -113,7 +113,7 @@ function backend-init {
 ### 📫 Kontak Saya
 
 <p align="left">
-  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a href="https://instagram.com/USERNAME"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram" /></a>
+  <a href="mailto:decoakbar30@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="email" /></a>
+  <a href="https://linkedin.com/in/deco-prasetya-446945374"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a href="https://instagram.com/decomposisi"><img src="https://skillicons.dev/icons?i=instagram" alt="instagram" /></a>
 </p>
